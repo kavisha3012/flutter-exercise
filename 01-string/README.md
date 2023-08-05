@@ -15,3 +15,6 @@ Input the string: Welcome to Rudra IT Hub
 
 Expected Output:
 Length of the string is : 23
+
+
+## 03-join a string - Write a program to join two string.
