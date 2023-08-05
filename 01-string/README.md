@@ -18,3 +18,9 @@ Length of the string is : 23
 
 
 ## 03-join a string - Write a program to join two string.
+
+Test Data :
+String1 = “Hello”
+String2 = “World”
+Expected Output :
+print(“Hello World”)
