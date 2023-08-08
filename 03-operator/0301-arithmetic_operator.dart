@@ -13,7 +13,7 @@
 
   double c= x/y;
    print("Division: $c");
-   
+
   int d=y % x;
    print("Module: $d");
 }

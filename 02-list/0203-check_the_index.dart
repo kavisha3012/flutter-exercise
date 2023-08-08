@@ -1,6 +1,4 @@
- void main(){
-  List<int> marks=[10,20,30];
+void main() {
+  List<int> marks = [10, 20, 30];
   print(marks.indexOf(30));
 }
-
-op: 2
