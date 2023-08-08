@@ -1,15 +1,15 @@
 #
 
-## 01-addition
+## 0401-addition
 1) Ask user to enter two number
 2) Show addition of those two numbers.
 
-## 02-sub
+## 0402-sub
 
-## 03-multi
+## 0403-multi
 
 
-## 05-division
+## 0405-division
 
-## 06-calc
+## 0406-calc
 
