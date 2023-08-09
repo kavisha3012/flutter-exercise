@@ -64,3 +64,14 @@ sum =  33
 difference = 17
 product =  200
 remainder =  1
+
+## 0306- Write a program to perform all logical operator.
+Test Data:
+int x=22;
+int y=39;
+
+Expected Output:
+true
+false
+false
+false
