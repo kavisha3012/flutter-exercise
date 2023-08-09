@@ -18,10 +18,10 @@
    print("Module: $d");
 }
 
-Output:
+// Output:
 
-Addition: 136
-Subtraction: -24
-Multiplication: 4480
-Division: 0.7
-Module: 24
+// Addition: 136
+// Subtraction: -24
+// Multiplication: 4480
+// Division: 0.7
+// Module: 24

@@ -16,24 +16,24 @@
   
 }
 
-Output:
+// Output:
 
-Add and Assign :97
-Subtract and Assign :52
-Multiply and Assign :2340
-Divide and Assign :52
-Mod and Assign :7
+// Add and Assign :97
+// Subtract and Assign :52
+// Multiply and Assign :2340
+// Divide and Assign :52
+// Mod and Assign :7
 
-=> For divide by
+// => For divide by
 
-void main(){
+// void main(){
   
-  double x= 52;
-  int y= 45;
+//   double x= 52;
+//   int y= 45;
   
-  print('Divide and Assign :${x /= y}');
-}
+//   print('Divide and Assign :${x /= y}');
+// }
 
-Output:
+// Output:
 
-Divide and Assign :1.1555555555555554
+// Divide and Assign :1.1555555555555554
