@@ -14,6 +14,7 @@ Expected Output:
 
 
 ## 0302-write a program to perform all Relational Operations.
+Test Data:
 int x=12;
 int y=20;
 
@@ -27,6 +28,7 @@ x is not equal to y: true
 
 
 ## 0303-write a program to perform all Assignment Operations.
+Test Data:
 int a=52;
 int b=45;
 
@@ -36,3 +38,18 @@ Subtract and Assign :52
 Multiply and Assign :2340
 Divide and Assign :52
 Mod and Assign :7
+
+## 0304- Write a program to perform all assignment operator(Ex:2).
+Test Data:
+int a = 99;
+int b = 12;
+int c ;
+
+Expected Output:
+Line 1 - Value of c is 111
+Line 2 - Value of c is 87 
+Line 3 - Value of c is 1188
+Line 4 - Value of c is 3
+Line 5 - Value of c is 99
+Line 6 - Value of c is 100
+Line 4 - Value of c is 8.25

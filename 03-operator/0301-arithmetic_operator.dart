@@ -17,11 +17,3 @@
   int d=y % x;
    print("Module: $d");
 }
-
-// Output:
-
-// Addition: 136
-// Subtraction: -24
-// Multiplication: 4480
-// Division: 0.7
-// Module: 24

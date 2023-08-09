@@ -16,13 +16,7 @@
   
 }
 
-// Output:
 
-// Add and Assign :97
-// Subtract and Assign :52
-// Multiply and Assign :2340
-// Divide and Assign :52
-// Mod and Assign :7
 
 // => For divide by
 
