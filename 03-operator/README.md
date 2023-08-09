@@ -53,3 +53,14 @@ Line 4 - Value of c is 3
 Line 5 - Value of c is 99
 Line 6 - Value of c is 100
 Line 4 - Value of c is 8.25
+
+## 0305- Write a program to perform all assignment operator(Ex:3).
+Test Data:
+int a = 25;
+int b = 8;
+
+Expected Output:
+sum =  33
+difference = 17
+product =  200
+remainder =  1
