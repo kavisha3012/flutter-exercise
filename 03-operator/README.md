@@ -75,3 +75,69 @@ true
 false
 false
 false
+
+## 0307- Write a program structure arithmetic and display addition, subtraction, multiplication of two number.
+Test Data :
+int num1 = 101; 
+int num2 = 2; 
+int res = 0; 
+
+Expected Output:
+Addition: 103
+Subtraction: 99
+Multiplication: 202
+Division: 202
+Division returning Integer: 50
+Remainder: 1
+
+
+## 0308- Write a program to convert meters to kilometers.
+Test Data:
+double meters = 50; // Distance in meters
+double kilometers = meters / 1000;
+
+Expected Output:
+50 meters is equal to 0.05 kilometers
+
+## 0309- Write a program to convert centimeters to inch.
+Test Data:
+double centimeters = 78;
+double inch = centimeters / 2.54;
+
+Expected Output:
+78 centimeters is equal to 30.708661417322833 inch
+
+## 0410- WAP structure enter value in meter and display it in kilomerer.
+
+Test Data:
+
+
+Expected Output:
+
+## 0411- WAP structure enter value in centimeter and display it in inch.
+Test Data:
+
+Expected Output:
+
+## 0412- WAP structure enter value any number and display cube of it.
+Test Data:
+
+
+Expected Output:
+
+## 0413- WAP structure swap two number and interchange/swap of that number 
+Test Data:
+
+
+Expected Output:
+
+
+## 0414- WAP structure swap two number and interchange/swap of that number without using 3nd variable
+Test Data:
+
+
+Expected Output:
+
+## 0415- WAP structure enter employee salary and count TA(10%), DA(7%) and PF(12%) of basic salary.
+Test Data:
+
