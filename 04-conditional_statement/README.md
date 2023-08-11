@@ -99,76 +99,8 @@ Input character: C
 Expected Output:
 'C' is uppercase alphabet
 
-## 0414-Write a program to input week number and print week day.
-Test Data :
-Input week number: 1
 
-Expected Output:
-Monday
-
-## 0415-Write a program to input month number and print number of days in that month.
-Test Data :
-Enter month number: 1
-
-Expected Output:
-It contains 31 days.
-
-
-## 0416-Write a program to count total number of notes in given amount.
-Test Data :
-Input amount: 575
-
-Expected Output:
-Total number of notes: 
-500: 1
-100: 0
-50: 1
-20: 1
-10: 0
-5: 1
-2: 0
-1: 0
-
-## 0417-Write program to input angles of a triangle and check whether triangle is valid or not.
-Test Data :
-Input first angle: 60
-Input second angle: 30
-Input third angle: 90
-
-
-Expected Output:
-The triangle is valid
-
-## 0418-Write a program to input all sides of a triangle and check whether triangle is valid or not.
-Test Data :
-Input first side: 7
-Input second side: 10
-Input third side: 5
-
-Expected Output:
-Triangle is valid
-
-## 0419-Write a program to check whether the triangle is equilateral, isosceles or scalene triangle.
-Test Data :
-Input first side: 30
-Input second side: 30
-Input third side: 30
-
-Expected Output:
-Triangle is equilateral triangle
-
-## 0420-Write a program to find all roots of a quadratic equation.
-Test Data :
-Input a: 8
-Input b: -4
-Input c: -2
-
-Expected Output:
-Root1: 0.80
-Root2: -0.30
-
-
-## 0421-Write a program to calculate profit or loss.
+## 0414-Write a program to calculate profit or loss.
 Test Data :
 Input cost price: 1000
 Input selling price: 1500
@@ -176,7 +108,7 @@ Input selling price: 1500
 Expected Output:
 Profit: 500
 
-## 0422-Write a program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+## 0415-Write a program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
 Percentage >= 90% : Grade A
 Percentage >= 80% : Grade B
 Percentage >= 70% : Grade C
@@ -196,7 +128,7 @@ Percentage = 95.00
 Grade A
 
 
-## 0423-Write a program to input basic salary of an employee and calculate its Gross salary according to following:
+## 0416-Write a program to input basic salary of an employee and calculate its Gross salary according to following:
 Basic Salary <= 10000 : HRA = 20%, DA = 80%
 Basic Salary <= 20000 : HRA = 25%, DA = 90%
 Basic Salary > 20000 : HRA = 30%, DA = 95%
@@ -205,9 +137,9 @@ Test Data :
 Input basic salary of an employee: 22000
 
 Expected Output:
-Gross salary = 44000
 
-## 0424-Write a program to input electricity unit charges and calculate total electricity bill according to the given condition:
+
+## 0417-Write a program to input electricity unit charges and calculate total electricity bill according to the given condition:
 For first 50 units Rs. 0.50/unit
 For next 100 units Rs. 0.75/unit
 For next 100 units Rs. 1.20/unit
@@ -215,6 +147,5 @@ For unit above 250 Rs. 1.50/unit
 An additional surcharge of 20% is added to the bill
 
 Test Data :
-
 
 Expected Output:

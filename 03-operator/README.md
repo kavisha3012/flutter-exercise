@@ -46,13 +46,11 @@ int b = 12;
 int c ;
 
 Expected Output:
-Line 1 - Value of c is 111
-Line 2 - Value of c is 87 
-Line 3 - Value of c is 1188
-Line 4 - Value of c is 3
-Line 5 - Value of c is 99
-Line 6 - Value of c is 100
-Line 4 - Value of c is 8.25
+Add:Value of c is 111
+Sub:Value of c is 87 
+Mul:Value of c is 1188
+Div:Value of c is 8.25
+Mod:Value of c is 3
 
 ## 0305- Write a program to perform all assignment operator(Ex:3).
 Test Data:
@@ -70,23 +68,16 @@ Test Data:
 int x=22;
 int y=39;
 
-Expected Output:
-true
-false
-false
-false
-
 ## 0307- Write a program structure arithmetic and display addition, subtraction, multiplication of two number.
 Test Data :
 int num1 = 101; 
 int num2 = 2; 
 int res = 0; 
 
-Expected Output:
 Addition: 103
 Subtraction: 99
 Multiplication: 202
-Division: 202
+Division: 50.5
 Division returning Integer: 50
 Remainder: 1
 
@@ -94,7 +85,6 @@ Remainder: 1
 ## 0308- Write a program to convert meters to kilometers.
 Test Data:
 double meters = 50; // Distance in meters
-double kilometers = meters / 1000;
 
 Expected Output:
 50 meters is equal to 0.05 kilometers
@@ -102,42 +92,49 @@ Expected Output:
 ## 0309- Write a program to convert centimeters to inch.
 Test Data:
 double centimeters = 78;
-double inch = centimeters / 2.54;
 
 Expected Output:
 78 centimeters is equal to 30.708661417322833 inch
 
-## 0410- WAP structure enter value in meter and display it in kilomerer.
 
+
+## 0310- WAP structure enter value any number and display cube of it.
 Test Data:
+double number = 5.0; // You can change this value to any number
+
+Expected Output:
+The cube of 5 is 125
+
+## 0311- WAP structure swap two number and interchange/swap of that number 
+Test Data:
+ number1 = 10;
+ number2 = 20;
+
+Expected Output:
+Number 1: 20
+Number 2: 10
+
+
+## 0312- WAP structure swap two number and interchange/swap of that number without using 3nd variable
+Test Data:
+ number1 = 10;
+ number2 = 20;
 
 
 Expected Output:
+Number 1: 20
+Number 2: 10
 
-## 0411- WAP structure enter value in centimeter and display it in inch.
+## 0313- WAP structure enter employee salary and count TA(10%), DA(7%) and PF(12%) of basic salary.
 Test Data:
+double basicSalary = 50000.0; // You can change this value
+double ta = basicSalary * 0.10;
+double da = basicSalary * 0.07;
+double pf = basicSalary * 0.12;
 
 Expected Output:
-
-## 0412- WAP structure enter value any number and display cube of it.
-Test Data:
-
-
-Expected Output:
-
-## 0413- WAP structure swap two number and interchange/swap of that number 
-Test Data:
-
-
-Expected Output:
-
-
-## 0414- WAP structure swap two number and interchange/swap of that number without using 3nd variable
-Test Data:
-
-
-Expected Output:
-
-## 0415- WAP structure enter employee salary and count TA(10%), DA(7%) and PF(12%) of basic salary.
-Test Data:
-
+Basic Salary: 50000
+TA (10%): 5000
+DA (7%): 3500.0000000000005
+PF (12%): 6000
+Total Salary: 52500
