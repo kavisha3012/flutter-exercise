@@ -9,5 +9,3 @@ void main() {
   print('x is equal to y: ${x == y}');
   print('x is not equal to y: ${x != y}');
 }
-
-

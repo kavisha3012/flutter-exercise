@@ -1,8 +1,8 @@
 void main() {
   int a = 25;
   int b = 8;
-  print("sum =  ${a + b}");
-  print("difference = ${a - b}");
-  print("product =  ${a * b}");
-  print("remainder =  ${a % b}");
+  print("sum(Addition) =  ${a + b}");
+  print("difference(Subtraction) = ${a - b}");
+  print("product(Multiply) =  ${a * b}");
+  print("remainder(Module) =  ${a % b}");
 }

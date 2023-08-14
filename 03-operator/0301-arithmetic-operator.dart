@@ -14,6 +14,6 @@ void main() {
   double c = x / y;
   print("Division: $c");
 
-  int d = y % x;
+  int d = y % x; // x%y is not posible .because x is small value & y is big.
   print("Module: $d");
 }

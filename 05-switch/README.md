@@ -22,3 +22,11 @@ Input number: 12
 
 Expected Output:
 Even number
+
+
+## 0504-Write a program to check whether a number is positive, negative or zero using switch case.
+Test Data :
+Input number: 23
+
+Expected Output:
+23 is positive

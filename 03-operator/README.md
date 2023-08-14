@@ -39,7 +39,7 @@ Multiply and Assign :2340
 Divide and Assign :52
 Mod and Assign :7
 
-## 0304- Write a program to perform all assignment operator(Ex:2).
+## 0304- Write a program to perform all arithmetic operator(Ex:2).
 Test Data:
 int a = 99;
 int b = 12;
@@ -58,10 +58,10 @@ int a = 25;
 int b = 8;
 
 Expected Output:
-sum =  33
-difference = 17
-product =  200
-remainder =  1
+sum(Addition) =  33
+difference(Subtraction) = 17
+product(multiply) =  200
+remainder(Module) =  1
 
 ## 0306- Write a program to perform all logical operator.
 Test Data:
@@ -78,7 +78,7 @@ Addition: 103
 Subtraction: 99
 Multiplication: 202
 Division: 50.5
-Division returning Integer: 50
+Division returning Integer(Division): 50
 Remainder: 1
 
 

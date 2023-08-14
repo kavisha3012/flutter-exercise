@@ -1,5 +1,5 @@
 void main() {
-  int unit = 150; // You can change this value to test different cases
+  int unit = 150;   // You can change this value to test different cases
   double amt, totalAmt, surCharge;
 
   if (unit <= 50) {
