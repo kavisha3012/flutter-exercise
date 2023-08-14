@@ -1,5 +1,5 @@
 void main() {
-  double costPrice = 1000; // Example cost price
+  double costPrice = 1000;    // Example cost price
   double sellingPrice = 1500; // Example selling price
 
   double profitLoss = sellingPrice - costPrice;

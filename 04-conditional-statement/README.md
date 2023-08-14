@@ -127,7 +127,6 @@ Expected Output:
 Percentage = 95.00 
 Grade A
 
-
 ## 0416-Write a program to input basic salary of an employee and calculate its Gross salary according to following:
 Basic Salary <= 10000 : HRA = 20%, DA = 80%
 Basic Salary <= 20000 : HRA = 25%, DA = 90%
@@ -137,7 +136,7 @@ Test Data :
 Input basic salary of an employee: 22000
 
 Expected Output:
-
+Gross salary = 49500
 
 ## 0417-Write a program to input electricity unit charges and calculate total electricity bill according to the given condition:
 For first 50 units Rs. 0.50/unit
@@ -147,5 +146,7 @@ For unit above 250 Rs. 1.50/unit
 An additional surcharge of 20% is added to the bill
 
 Test Data :
+Input unit = 150;
 
 Expected Output:
+Electricity Bill = Rs. 120.00
