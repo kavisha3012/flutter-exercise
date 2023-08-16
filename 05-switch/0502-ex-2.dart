@@ -2,16 +2,12 @@ void main() {
   int firstNumber = 12;
   int secondNumber = 40;
 
-  int maximum;
-
   switch (firstNumber > secondNumber) {
     case true:
-      maximum = firstNumber;
+      print('Maximum $firstNumber');
       break;
-    case false:
-      maximum = secondNumber;
+    default:
+      print('Maximum $secondNumber');
       break;
   }
-
-  print('Maximum: $maximum');
 }

@@ -1,14 +1,34 @@
 void main() {
-  int number = 23;
-
-  switch (number.sign) {
+  int no = 2;
+  switch (no) {
     case 1:
-      print('$number is positive');
+      print('Monday');
       break;
-    case -1:
-      print('$number is negative');
+
+    case 2:
+      print('Tuesday');
       break;
+
+    case 3:
+      print('Wednesday');
+      break;
+
+    case 4:
+      print('Thursday');
+      break;
+    case 5:
+      print('Friday');
+      break;
+
+    case 6:
+      print('Saturday');
+      break;
+
+    case 7:
+      print('Sunday');
+      break;
+
     default:
-      print('$number is zero');
+      print('Enter no between 1 to 7');
   }
 }

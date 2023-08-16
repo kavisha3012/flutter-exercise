@@ -94,7 +94,7 @@ Test Data:
 double centimeters = 78;
 
 Expected Output:
-78 centimeters is equal to 30.708661417322833 inch
+78 centimeters is equal to 30.42 inch
 
 
 

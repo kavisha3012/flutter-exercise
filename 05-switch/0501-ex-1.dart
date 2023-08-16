@@ -1,27 +1,14 @@
 void main() {
-  int weekNumber = 2;
+  int number = 23;
 
-  String dayOfWeek = getDayOfWeek(weekNumber);
-  print(dayOfWeek);
-}
-
-String getDayOfWeek(int weekNumber) {
-  switch (weekNumber) {
+  switch (number.sign) {
     case 1:
-      return "Monday";
-    case 2:
-      return "Tuesday";
-    case 3:
-      return "Wednesday";
-    case 4:
-      return "Thursday";
-    case 5:
-      return "Friday";
-    case 6:
-      return "Saturday";
-    case 7:
-      return "Sunday";
+      print('$number is positive');
+      break;
+    case -1:
+      print('$number is negative');
+      break;
     default:
-      return "Invalid week number";
+      print('$number is zero');
   }
 }
