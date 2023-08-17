@@ -7,6 +7,18 @@ void main() {
   }
 }
 
+
+// void main(){
+// int a=10;
+//   for(int i=1;i<=10;i++){
+//     if(i%2==0){
+//       print(i);
+//     }
+//   }
+// }
+
+
+
 // Using while loop:
 
 // void main() {

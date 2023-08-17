@@ -50,7 +50,7 @@ Expected Output:
 Odd numbers between 1 to 10:
 1, 3, 5, 7, 9
 
-## 0605-Write a C program to find the sum of all natural numbers between 1 to 10 using for loop. 
+## 0605-Write a program to find the sum of all natural numbers between 1 to 10 using for loop. 
 Test Data :
 Input upper limit: 10
 

@@ -5,7 +5,7 @@ void main() {
 
   for (int i = 1; i <= upperLimit; i++) {
     if (i % 2 != 0) {
-      if (i != 1) {}
+      // if (i != 1) {}
       print(i);
     }
   }
