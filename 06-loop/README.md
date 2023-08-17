@@ -94,7 +94,7 @@ Input num: 35419
 Expected Output:
 Number of digits: 5
 
-## 0610-Write a C program to find first and last digit of a number.
+## 0610-Write a program to find first and last digit of a number.
 Test Data :
 Input number: 1234
 
