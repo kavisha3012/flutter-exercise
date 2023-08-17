@@ -7,3 +7,6 @@ void main() {
   print('First digit: $firstDigit');
   print('Last digit: $lastDigit');
 }
+
+
+// While loop
