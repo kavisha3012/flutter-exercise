@@ -8,3 +8,17 @@ void main() {
     print("$num * $i = $result");
   }
 }
+
+//while loop
+
+//  void main() {
+//   int num = 5; // You can change this to any other number
+//   int i = 1;
+
+//   while (i <= 10) {
+//     int result = num * i;
+//     print('$num * $i = $result');
+//     i++;
+//   }
+// }
+

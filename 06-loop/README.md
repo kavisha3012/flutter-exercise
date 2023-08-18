@@ -21,7 +21,7 @@ Test Data :
 Input N: 10
 
 Expected Output:
-Natural numbers from 10-1 in reverse: 
+Natural numbers from 10-1 in reverse: numbers
 10,
  9, 
  8, 
@@ -101,3 +101,23 @@ Input number: 1234
 Expected Output:
 First digit: 1
 Last digit: 4
+
+## 0611-Write a program to calculate factorial of a number.
+Test Data :
+Input number: 5
+
+Expected Output:
+Factorial: 120
+
+## 0612-Write a program to check whether a number is Prime number or not.
+Test Data :
+Input any number: 17
+
+Expected Output:
+17 is prime number
+
+## 0613-
+Test Data :
+
+
+Expected Output:

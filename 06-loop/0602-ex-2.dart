@@ -3,7 +3,7 @@ void main() {
   print("Natural numbers from $n-1 in reverse:");
 
   for (int i = n; i >= 1; i--) {
-   print('$i,');
+    print('$i,');
   }
 }
 
