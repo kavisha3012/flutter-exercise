@@ -25,14 +25,6 @@ Expected Output:
 Even number
 
 
-## 0504-Write a program to check whether a number is positive, negative or zero using switch case.
-Test Data :
-Input number: 23
-
-Expected Output:
-23 is positive
-
-
 ## 0504- Write a program to print day of week name using switch case.
 Test Data
 Input week number(1-7): 2

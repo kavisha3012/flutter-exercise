@@ -1,5 +1,5 @@
 void main() {
-  var str = 'WELCOME TO RUDRA IT HUB';
-  var result = str.toLowerCase();
+  String str = 'WELCOME TO RUDRA IT HUB';
+  String result = str.toLowerCase();
   print(result);
 }
