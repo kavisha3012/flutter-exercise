@@ -25,3 +25,22 @@ HDFC
 364011223387
 Avenue Road
 Bangalore
+
+## 0904- Write a below program using class and object. Make a class for store School name,School area, school owner name and school rank detail. And access this using object in both way (in same file and using another file).
+
+Expected Output:
+
+Gyanguru Vidhyapith
+Sagwadi
+Manharbhai Rathod
+2
+
+## 0905- Write a below program using class and object. Make a class for store Hospital Name,Doctor Name, Number of staff,City and pincode number of city detail. And access this using object in both way (in same file and using another file).
+
+Expected Output:
+
+BIMS
+Dr.Raj Shah
+300
+Bhavnagar
+364002
