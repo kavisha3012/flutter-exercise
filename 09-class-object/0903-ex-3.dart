@@ -68,3 +68,28 @@ void main() {
 //   printer.bankBranchName("Avenue Road");
 //   printer.bankCity("Bangalore");
 // }
+
+
+// Third Method 
+
+// class Bank {
+//   void bankName(
+//       {required String bname,
+//       required int baccno,
+//       required String branchname,
+//       required String bcity}) {
+//     print(bname);
+//     print(baccno);
+//     print(branchname);
+//     print(bcity);
+//   }
+// }
+
+// void main() {
+//   Bank bankdata = Bank();
+//   bankdata.bankName(
+//       bname: 'HDFC',
+//       baccno: 364011223387,
+//       branchname: 'Avenue Road',
+//       bcity: 'Bangalore');
+// } 
