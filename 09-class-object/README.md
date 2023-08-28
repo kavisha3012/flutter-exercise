@@ -44,3 +44,37 @@ Dr.Raj Shah
 300
 Bhavnagar
 364002
+
+## 0906- Write a program to sum of two numbers using class.
+
+Expected Output:
+
+Sum of two numbers 
+
+## 0907- Write a program to Multiplication of two numbers using class.
+
+Expected Output:
+
+Multiplication of two numbers.
+
+## 0908- Write a program to Subtraction of two numbers using class.
+
+Expected Output:
+
+Subtraction of two numbers.
+
+
+## 0909- Write a program to Division of two numbers using class.
+
+Expected Output:
+
+Division of two numbers.
+
+## 0910- Write a program to Addition , Subtraction ,Multiplication And Division of two numbers using class.
+
+Expected Output:
+
+Addition: 10 + 5 = 15
+Subtraction: 10 - 5 = 5
+Multiplication: 10 * 5 = 50
+Division: 10 / 5 = 2
