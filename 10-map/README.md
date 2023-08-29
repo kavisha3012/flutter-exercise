@@ -3,7 +3,7 @@
  Input Data:
 
 Name :'Rudra It Hub'
-Mobile : 0123456789
+Mobile : 9892345678
 Address :'Leela Circle,Bhavnagar'
 Courses : ['Android','Ios','Java','Swift']
 
@@ -19,7 +19,7 @@ Perform below operation.
 8] Check map is empty or not.
 9] add multiple value on map.
  "Student Name" : "ABC"
- "Student Mobile No" : 012345678
+ "Student Mobile No" : 912345678
  
 10] Chcek in courses list if there is "Java" course available then print "Java" otherwise print "Course is not available".
  
