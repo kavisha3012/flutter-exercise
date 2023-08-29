@@ -17,6 +17,9 @@ void main() {
   value.remove('Address');
   print(value);
 
+  value.addAll({'Email': 'rudraithub.bhavangar@gmail.com'});
+  print(value);
+
   print(value.isEmpty);
   value.addAll({'Student Name': "ABC", 'Student Mobile No': 912345678});
   print(value);

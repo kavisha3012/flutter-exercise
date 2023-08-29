@@ -73,30 +73,26 @@ Perform below operation.
  
 10] Chcek in department list if there is "Radiology" department available then print "Radiology" otherwise print "department is not available".
  
-## 1004- Create a below map:
-
+## 1004- Create a map to store Bank detail.
  Input Data:
 
-Hospital Name :'Pulse'
-Mobile : 900099890
-Address :'Top three,Bhavnagar'
-Department : ['Radiology','Orthopedics']
+ accountNumber
+ accountHolder
+ bankName
+ branch
+ ifscCode
+ balance
 
-Perform below operation.
 
-1] Print this map.
-2] Access mobile key value.
-3] Find length of map.
-4] Check 'name' key exiest on this Map.
-5] Print this Map using forEach.
-6] Remove "Address" key from Map.
-7] Add "Email" key and store "pulse@gmail.com".
-8] Check map is empty or not.
-9] Add multiple value on map.
- "Doctor Name" : "J.B.Patel"
- "Staff" : 400
- 
-10] Chcek in department list if there is "Radiology" department available then print "Radiology" otherwise print "department is not available".
+## 1005- Create a map to store Politics detail.
+
+president
+primeMinister
+totalSeats
+oppositionParties
+governmentType
+City
+
  
 
 
