@@ -1,3 +1,0 @@
-# List practice
-
-## 01---
