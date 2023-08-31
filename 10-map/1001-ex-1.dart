@@ -24,11 +24,7 @@ void main() {
   value.addAll({'Student Name': "ABC", 'Student Mobile No': 912345678});
   print(value);
 
-  List<String> courses = value['Courses'];
+  final bool isValuePresent = value['Courses'].contains('Java');
 
-  if (courses.contains('Java')) {
-    print('Java');
-  } else {
-    print('Course is not available');
-  }
+  print(isValuePresent);
 }

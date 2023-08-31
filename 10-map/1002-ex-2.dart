@@ -24,11 +24,6 @@ void main() {
   value.addAll({'Student Name': "xyz", 'Student City': 'Surat'});
   print(value);
 
-  List<String> courses = value['Courses'];
-
-  if (courses.contains('Science')) {
-    print('Science');
-  } else {
-    print('Course is not available');
-  }
+  final bool isValuePresent = value['Courses'].contains('Science');
+  print(isValuePresent);
 }

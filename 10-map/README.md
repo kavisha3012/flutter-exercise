@@ -21,7 +21,7 @@ Perform below operation.
  "Student Name" : "ABC"
  "Student Mobile No" : 912345678
  
-10] Chcek in courses list if there is "Java" course available then print "Java" otherwise print "Course is not available".
+10] Chcek in courses list "Java" course available or not.
  
  ## 1002- Create a below map:
 
@@ -46,7 +46,7 @@ Perform below operation.
  "Student Name" : "XYZ"
  "Student City" : "Surat"
  
-10] Chcek in courses list if there is "Science" course available then print "Science" otherwise print "Course is not available".
+10] Chcek in courses list "Science" course available or not.
  
 ## 1003- Create a below map:
 
@@ -71,7 +71,7 @@ Perform below operation.
  "Doctor Name" : "J.B.Patel"
  "Staff" : 400
  
-10] Chcek in department list if there is "Radiology" department available then print "Radiology" otherwise print "department is not available".
+10] Chcek in department list "Radiology" Department available or not.
  
 ## 1004- Create a map to store Bank detail.
  Input Data:

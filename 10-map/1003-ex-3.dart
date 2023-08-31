@@ -24,11 +24,6 @@ void main() {
   value.addAll({"Doctor Name": "J.B.Patel", "Staff": 400});
   print(value);
 
-  List<String> department = value['Department'];
-
-  if (department.contains('Radiology')) {
-    print('Radiology');
-  } else {
-    print('Course is not available');
-  }
+  final bool isValuePresent = value['Department'].contains('Radiology');
+  print(isValuePresent);
 }
