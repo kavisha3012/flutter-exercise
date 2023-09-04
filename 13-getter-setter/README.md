@@ -1,4 +1,4 @@
-## 1201- Write a program to print below output using Override Method in class.
+## 1301- Write a program to print below output using getter-setter in class.
 
 Test Data String: Ruhi
 
