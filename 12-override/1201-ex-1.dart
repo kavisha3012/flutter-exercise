@@ -1,6 +1,6 @@
 void main() {
   B obj = B();
-  obj.display();
+  obj.display(); // Using overriding
 }
 
 class A {
