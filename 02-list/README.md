@@ -21,7 +21,6 @@ Expected Output: 2
 
 ## 0204- Write a program to print reversed string.
 
-
 Input list:
 [10, 20, 30]
 
