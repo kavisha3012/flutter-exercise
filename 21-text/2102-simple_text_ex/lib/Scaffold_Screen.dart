@@ -9,12 +9,12 @@ class ScaffoldDemo extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        'hello World',
+        'My name is Raj',
         style: TextStyle(
             fontSize: 90,
             decoration: TextDecoration.underline,
-            fontWeight: FontWeight.w900,
-            color: Colors.blue,
+            fontWeight: FontWeight.w700,
+            color: Colors.green,
             fontStyle: FontStyle.italic,
             backgroundColor: Colors.pink),
       ),
